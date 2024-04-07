@@ -1,6 +1,6 @@
 # 期末專題-遊戲電商社群平台
 
-[點及此處下載查看使用說明](https://github.com/DeanInConfidence/GameRoot-BackEnd/files/14898394/-GameRoot.pdf)<br>
+[點擊此處下載查看使用說明](https://github.com/DeanInConfidence/GameRoot-BackEnd/files/14898394/-GameRoot.pdf)<br>
 前端在 https://github.com/DeanInConfidence/GameRoot-FrontEnd
 
 ## 負責功能
